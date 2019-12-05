@@ -1,0 +1,13 @@
+{
+  "name": "combustiCode",
+  "version": "1.0.0",
+  "description": "Combust code on runtime",
+  "main": "app.js",
+  "author": "Loz",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "inquirer": "^7.0.0",
+    "pkg": "^4.4.0"
+  }
+}
